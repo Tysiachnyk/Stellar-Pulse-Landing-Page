@@ -1,7 +1,7 @@
 {
-  "name": "gulp-boilerplate",
+  "name": "Stellar-Pulse-Landing-Page",
   "version": "1.0.0",
-  "description": "Frontend boilerplate based on gulp",
+  "description": "A responsive and modern landing page created for 'NOVA' brand products. This project was built to demonstrate the practical application of modern HTML and CSS layout techniques. It is fully adaptive and provides a seamless user experience across mobile, tablet, and desktop devices.",
   "scripts": {
     "init": "mate-scripts init",
     "start": "mate-scripts start",
@@ -25,6 +25,7 @@
     "@parcel/transformer-sass": "^2.12.0",
     "eslint": "^8.57.0",
     "eslint-plugin-node": "^11.1.0",
+    "gh-pages": "^6.3.0",
     "parcel": "^2.12.0",
     "prettier": "^3.3.2",
     "stylelint": "^16.7.0",

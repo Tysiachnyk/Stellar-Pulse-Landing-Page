@@ -41,7 +41,7 @@
 
 
   &--phone {
-    background-image: url('../../src/images/icons/icon-phone.png');
+    background-image: url('../../src/images/icons/icon-phone.webp');
     background-repeat: no-repeat;
 
     &:hover ~ .icon--phone-number {
@@ -54,16 +54,16 @@
   }
 
   &--menu {
-    background-image: url('../../src/images/icons/burger-menu.png');
+    background-image: url('../../src/images/icons/burger-menu.webp');
     background-repeat: no-repeat;
 
     &:hover {
-      background-image: url('../../src/images/icons/Icon-menu-hover.png');
+      background-image: url('../../src/images/icons/Icon-menu-hover.webp');
     }
   }
 
   &--close {
-    background-image: url('../../src/images/icons/icon-close.png');
+    background-image: url('../../src/images/icons/icon-close.webp');
     background-repeat: no-repeat;
   }
 }

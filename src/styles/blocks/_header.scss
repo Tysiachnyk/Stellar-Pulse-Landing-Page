@@ -4,10 +4,10 @@
   --max-tablet-header-width: 392px;
   --max-desktop-header-width: 392px;
 
-  background-image: url('/src/images/header-bg.png');
+  background-image: url('/src/images/header-bg.webp');
   background-size: cover;
   background-position: center;
-
+  
   &__content {
     height: 100vh;
     display: flex;

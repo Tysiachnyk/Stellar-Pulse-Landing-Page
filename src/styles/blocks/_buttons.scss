@@ -1,9 +1,6 @@
-@import './mixins';
+@import "./mixins";
 
 .btn {
-//   --btn-line-height: 27px;
-//   --btn-tablet-max-width: 600px;
-//   --btn-desktop-max-width: 324px;
   --btn-hover-btn-color: rgba(240, 241, 244, 1);
   --btn-active-bg-btn-color: rgba(17, 17, 17, 1);
   --btn-text-btn-color: rgba(255, 255, 255, 1);

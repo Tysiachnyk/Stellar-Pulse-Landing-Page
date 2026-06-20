@@ -36,7 +36,7 @@
     width: 100vw;
     margin-left: calc(-50vw + 50%);
     height: var(--plashka-height);
-    background-image: url('/src/images/plashka-image.png');
+    background-image: url('/src/images/plashka-image.webp');
 
     @include on-tablet {
       --plashka-height: var(--plashka-tablet-height);
