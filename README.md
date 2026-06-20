@@ -33,7 +33,24 @@ To run this project on your local machine, follow these steps:
 
 ---
 
-## 📈 Key Features
+## Technologies Used
 
-*   **Mobile-First Approach:** Optimized for smaller screens first.
-*   **Clean Code:** Written using BEM and linted for consistency.
+### Markup & Styling
+
+- HTML5
+- SCSS (Sass)
+- BEM Methodology
+
+### Optimization
+
+- WebP image format
+- Lazy loading for images
+- Font preloading
+- Optimized asset delivery
+
+### Project Architecture
+
+- Modular SCSS structure
+- Reusable UI components
+- Responsive design
+- Maintainable and scalable codebase
